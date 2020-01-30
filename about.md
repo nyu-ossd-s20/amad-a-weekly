@@ -4,9 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Amad Ansari
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Amad Ansari is a senior studying computer science and art history. He is interested in the intersections of both disciplines, especially digital conservation and archiving. 
+
+:)
 
