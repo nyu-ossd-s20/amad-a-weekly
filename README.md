@@ -1,2 +1,3 @@
-This is a simple template for the class blog. 
+Welcome to my BLOG on Open Source Software Development.
+
 
